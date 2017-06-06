@@ -1,0 +1,1 @@
+# crispy-emails
